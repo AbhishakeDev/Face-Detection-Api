@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/https-github.com-jonasschmedtmann-complete-javascript-course-master"
+		},
+		{
+			"path": "../../Downloads/Face-Detection-master"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "face detection app"
+	}
+}
